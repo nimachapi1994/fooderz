@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d60624d0-53b8-40ee-9348-bf523b2064c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/css/other_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/css/other_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/js/plugins.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/js/plugins.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/js/restaurant-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/js/restaurant-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/provider/js/provider_info.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/provider/js/provider_info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/provider/provider_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/provider/provider_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fooderz.ir/restaurant-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/Fooderz.ir/restaurant-list.php" afterDir="false" />
+    </list>
+    <list id="1ccf42ae-a2ec-46c4-90d3-09d949967f63" name="rename final to fooderz.ir" comment="rename final to fooderz.ir&#10;&#10;(cherry picked from commit 3f92cca5db40233a49bf3283b1bfb20d5978ce2d)">
+      <changelist_data name="Noohpishe" email="noohpishehhossein@gmail.com" date="1535033456000">
+        <option name="date" value="1535033456000" />
+        <option name="email" value="noohpishehhossein@gmail.com" />
+        <option name="name" value="Noohpishe" />
+      </changelist_data>
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1757822830">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="58" />
+          <entry key="php" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="58" />
+          <entry key="PHP" value="31" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1867924597">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="js" value="2" />
+          <entry key="php" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="434" />
+          <entry key="js" value="37" />
+          <entry key="php" value="2222" />
+          <entry key="txt" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="434" />
+          <entry key="JavaScript" value="37" />
+          <entry key="PHP" value="2222" />
+          <entry key="PLAIN_TEXT" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1044614239">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="5" />
+          <entry key="php" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PHP" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="12" />
+          <entry key="html" value="28" />
+          <entry key="php" value="583" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="12" />
+          <entry key="HTML" value="28" />
+          <entry key="PHP" value="583" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-541419771">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="2" />
+          <entry key="php" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="2" />
+          <entry key="PHP" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="716" />
+          <entry key="html" value="1" />
+          <entry key="php" value="1534" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="716" />
+          <entry key="HTML" value="1" />
+          <entry key="PHP" value="1534" />
+          <entry key="PLAIN_TEXT" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1949648267">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fooderz" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fooderz.ir/restaurant-list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/provider_info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16949">
+              <caret line="997" selection-start-line="997" selection-end-line="997" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fooderz.ir/css/other_styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22933">
+              <caret line="1349" column="13" selection-start-line="1349" selection-start-column="1" selection-end-line="1349" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/provider_info_ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="79" lean-forward="true" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ورود</find>
+      <find>$rand</find>
+      <find>Leaflet</find>
+      <find>ذخیره منو</find>
+      <find>grid-e</find>
+      <find>pages</find>
+      <find>footer</find>
+      <find>menu_hea</find>
+      <find>d=&quot;M489.328,118.545h-131.23h-47.194H22.674c-10.107,0-18.301,8.195-18.301,18.303v64.626  c0,7.262,5.887,13.148,13.147,13.148h293.383h47.194h136.384c7.261,0,13.147-5.887,13.147-13.148v-64.626  C507.629,126.74,499.435,118.545,489.328,118.545z&quot;</find>
+      <find>min-bas</find>
+      <find>transition</find>
+      <find>sidebar-</find>
+      <find>grid-</find>
+      <find>%</find>
+      <find>ico</find>
+      <find>closed</find>
+      <find>check</find>
+      <find>.your</find>
+      <find>.your-esha</find>
+      <find>ul</find>
+      <find>ul&gt;</find>
+      <find>your</find>
+      <find>HEAD</find>
+      <find>dot</find>
+      <find>ذخیره</find>
+      <find>ذخیره تغییر</find>
+      <find>success</find>
+      <find>percent-success-txt</find>
+      <find>.dot</find>
+      <find>drag</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;/tr&gt;&lt;/td&gt;</replace>
+      <replace>&lt;/td&gt;&lt;/tr&gt;</replace>
+      <replace>?&gt;&quot; name=&quot;&quot;</replace>
+      <replace>button type=&quot;button&quot;</replace>
+      <replace>\$row</replace>
+      <replace>\$row2</replace>
+      <replace>\$tmpPath</replace>
+      <replace>\$ = \$_POST</replace>
+      <replace>];</replace>
+      <replace>'\$'</replace>
+      <replace>datenTime</replace>
+      <replace>= \$</replace>
+      <replace>:</replace>
+      <replace>نوع سفارش</replace>
+      <replace>&lt;?php echo \$dis ?&gt;</replace>
+      <replace>\$managername</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DataBase/DBOOPHP/02_PDO/12/exec_insert.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/exec/delete.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/fetch/fetch.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/exec/insert.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/prepared/Bind?.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/prepared/Bind.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/prepared/BindQ.php" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/index.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/prepared/BindArr.php" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/select.php" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/modalRegions.php" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/ProviderConfirm2.php" />
+        <option value="$PROJECT_DIR$/DataBase/PDO/DBconnect/DBconnect.php" />
+        <option value="$PROJECT_DIR$/validate.php" />
+        <option value="$PROJECT_DIR$/temp.php" />
+        <option value="$PROJECT_DIR$/resturantInfo.php" />
+        <option value="$PROJECT_DIR$/final2/restaurant_register.html" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/ProviderConfirm.php" />
+        <option value="$PROJECT_DIR$/final/provider/providerPanel.php" />
+        <option value="$PROJECT_DIR$/final/restaurant_register.html" />
+        <option value="$PROJECT_DIR$/final/validate.php" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/ProviderNotConfirm.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/provider_info.html" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/prvLogIn.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/sess.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/index.html" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/modalInsert.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/validate.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/restaurant_register.html" />
+        <option value="$PROJECT_DIR$/es6.js" />
+        <option value="$PROJECT_DIR$/es6.html" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/vardump.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/providerPanel.php" />
+        <option value="$PROJECT_DIR$/test/stamp.php" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/modal.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/index.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/log_in/log_in.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/js/main.js" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/js/provider_info.js" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/js/plugins.min.js" />
+        <option value="$PROJECT_DIR$/FooderzAdmin/Providers/modal.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/js/contact-us.js" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/js/provider_info.js" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/contact.html" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/provider_info_ajax.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/css/other_styles.css" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/provider_info.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/provider/provider_info.php" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/css/style.css" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/css/style.css" />
+        <option value="$PROJECT_DIR$/Fooderz.ir/restaurant-list.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/FooderzAdmin/Plugins/Persian-Jalali-Calendar-Data-Picker-Plugin-With-jQuery-kamaDatepicker/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="63" />
+    <option name="width" value="1139" />
+    <option name="height" value="654" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpUnusedLocalVariableInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fooderz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fooderz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fooderz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fooderz" type="462c0819:PsiDirectoryNode" />
+              <item name="Fooderz.ir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fooderz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fooderz" type="462c0819:PsiDirectoryNode" />
+              <item name="Fooderz.ir" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fooderz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fooderz" type="462c0819:PsiDirectoryNode" />
+              <item name="Fooderz.ir" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="ئخ&#9;FILE&#9;file://E:/xampp/htdocs/Fooderz/FooderzAdmin/Providers/modal.php&#10;notC&#9;FILE&#9;file://E:/xampp/htdocs/Fooderz/FooderzAdmin/Providers/ProviderNotConfirm.php&#10;moda&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/modal.php&#10;stamp&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/test/stamp.php&#10;sql&#9;ACTION&#9;DatabaseView.ImportFromSql&#10;restur&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/resturantInfo.php&#10;res&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/resturantInfo.php&#10;validate&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/Fooderz.ir/validate.php&#10;modal&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/modal.php&#10;mo&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/modal.php&#10;pr&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/ProviderNotConfirm.php&#10;pro&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/Fooderz.ir/provider/provider_info.php&#10;gitlab&#9;ACTION&#9;GitLabGroup&#10;پخیشمه&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/modalInsert.php&#10;حقخ&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/fooderz.ir/provider/providerPanel.php&#10;proxy&#9;ACTION&#9;DBGPProxyGroup&#10;gitl&#9;ACTION&#9;GitLabGroup&#10;plug&#9;ACTION&#9;WelcomeScreen.Plugins&#10;prov&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/ProviderNotConfirm.php&#10;conf&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/ProviderNotConfirm.php&#10;inse&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/modalInsert.php&#10;حق&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/ProviderNotConfirm.php&#10;no&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/FooderzAdmin/Providers/ProviderNotConfirm.php&#10;fe&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/DataBase/PDO/fetch/fetch.php&#10;DBc&#9;FILE&#9;file:///opt/lampp/htdocs/fooderz/DataBase/PDO/DBconnect/DBconnect.php&#10;plugin&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fooderz.ir/provider/js" />
+      <recent name="$PROJECT_DIR$/Fooderz.ir" />
+      <recent name="$PROJECT_DIR$/final" />
+      <recent name="$PROJECT_DIR$/FooderzAdmin/Providers" />
+      <recent name="$PROJECT_DIR$/DataBase/PDO/fetch" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fooderz.ir/css" />
+      <recent name="$PROJECT_DIR$/Fooderz.ir/js" />
+      <recent name="$PROJECT_DIR$/Fooderz.ir" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/Fooderz.ir/provider/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.fetch.php">
+    <configuration name="dbTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DataBase/PDO/DBconnect/dbTest.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="fetch.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DataBase/PDO/fetch/fetch.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.dbTest.php" />
+      <item itemvalue="PHP Script.fetch.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.fetch.php" />
+        <item itemvalue="PHP Script.dbTest.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d60624d0-53b8-40ee-9348-bf523b2064c2" name="Default Changelist" comment="" />
+      <created>1532174731607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532174731607</updated>
+      <workItem from="1532174733154" duration="4247000" />
+      <workItem from="1532181296053" duration="1250000" />
+      <workItem from="1532258581845" duration="9454000" />
+      <workItem from="1532347671768" duration="768000" />
+      <workItem from="1532349613664" duration="3766000" />
+      <workItem from="1532360853932" duration="3829000" />
+      <workItem from="1532411256561" duration="5029000" />
+      <workItem from="1532439368595" duration="1584000" />
+      <workItem from="1532509155563" duration="930000" />
+      <workItem from="1532525581709" duration="1606000" />
+      <workItem from="1532599279702" duration="5116000" />
+      <workItem from="1532756745188" duration="120000" />
+      <workItem from="1532760424700" duration="6892000" />
+      <workItem from="1532854259053" duration="618000" />
+      <workItem from="1532863776173" duration="1658000" />
+      <workItem from="1532878922848" duration="2351000" />
+      <workItem from="1533051918846" duration="2612000" />
+      <workItem from="1533118432052" duration="3596000" />
+      <workItem from="1533384625630" duration="11992000" />
+      <workItem from="1533463254159" duration="11029000" />
+      <workItem from="1533554553223" duration="9123000" />
+      <workItem from="1533635618606" duration="434000" />
+      <workItem from="1533636707665" duration="906000" />
+      <workItem from="1533646037129" duration="4869000" />
+      <workItem from="1533722518820" duration="16401000" />
+      <workItem from="1533743652533" duration="2039000" />
+      <workItem from="1533808528198" duration="20325000" />
+      <workItem from="1533899652259" duration="17227000" />
+      <workItem from="1533983031648" duration="16861000" />
+      <workItem from="1534068584138" duration="9437000" />
+      <workItem from="1534085270896" duration="6587000" />
+      <workItem from="1534243429640" duration="9429000" />
+      <workItem from="1534253652121" duration="11011000" />
+      <workItem from="1534327213130" duration="17267000" />
+      <workItem from="1534411907080" duration="18204000" />
+      <workItem from="1534435725928" duration="2566000" />
+      <workItem from="1534503626784" duration="6328000" />
+      <workItem from="1534589554680" duration="2014000" />
+      <workItem from="1534596824035" duration="3205000" />
+      <workItem from="1534672679919" duration="7005000" />
+      <workItem from="1534762754414" duration="598000" />
+      <workItem from="1534779932620" duration="597000" />
+      <workItem from="1534782033684" duration="1254000" />
+      <workItem from="1534783350820" duration="673000" />
+      <workItem from="1534849632941" duration="5279000" />
+      <workItem from="1534857786449" duration="25000" />
+      <workItem from="1534857813814" duration="6935000" />
+      <workItem from="1534867603891" duration="216000" />
+      <workItem from="1534868159842" duration="2070000" />
+      <workItem from="1534933226140" duration="98000" />
+      <workItem from="1534933786252" duration="1260000" />
+      <workItem from="1534945124666" duration="1196000" />
+      <workItem from="1534951308500" duration="615000" />
+      <workItem from="1535020389853" duration="98000" />
+      <workItem from="1535031200047" duration="2045000" />
+      <workItem from="1535192007842" duration="18005000" />
+      <workItem from="1535277713778" duration="2950000" />
+      <workItem from="1535296526936" duration="2242000" />
+      <workItem from="1535363459431" duration="2014000" />
+      <workItem from="1535451305767" duration="1643000" />
+      <workItem from="1535456374106" duration="1320000" />
+      <workItem from="1535464352410" duration="1928000" />
+      <workItem from="1535468217704" duration="2035000" />
+      <workItem from="1535470337242" duration="1591000" />
+      <workItem from="1535536771626" duration="1173000" />
+      <workItem from="1535539460288" duration="571000" />
+      <workItem from="1535540088027" duration="1776000" />
+      <workItem from="1535541923534" duration="1773000" />
+      <workItem from="1535544839236" duration="1197000" />
+      <workItem from="1535551818574" duration="1806000" />
+      <workItem from="1535554506525" duration="1865000" />
+      <workItem from="1535638794070" duration="599000" />
+      <workItem from="1535642171412" duration="599000" />
+      <workItem from="1535795988037" duration="841000" />
+      <workItem from="1535798549015" duration="1470000" />
+      <workItem from="1535800767876" duration="321000" />
+      <workItem from="1535803449822" duration="1341000" />
+      <workItem from="1535806488917" duration="1809000" />
+      <workItem from="1535808513033" duration="1787000" />
+      <workItem from="1535810362711" duration="1910000" />
+      <workItem from="1535812412102" duration="1771000" />
+      <workItem from="1535814244799" duration="1770000" />
+      <workItem from="1535816072527" duration="1769000" />
+      <workItem from="1535817901706" duration="1673000" />
+      <workItem from="1535887610905" duration="1288000" />
+      <workItem from="1535889446786" duration="1813000" />
+      <workItem from="1535891676750" duration="328000" />
+      <workItem from="1535902349608" duration="860000" />
+      <workItem from="1535968980542" duration="1831000" />
+      <workItem from="1535970866219" duration="1335000" />
+      <workItem from="1535973558151" duration="1767000" />
+      <workItem from="1535975419384" duration="1036000" />
+      <workItem from="1535977592628" duration="1738000" />
+      <workItem from="1535979982604" duration="689000" />
+      <workItem from="1535982639273" duration="1313000" />
+      <workItem from="1535985584229" duration="1662000" />
+      <workItem from="1535988419385" duration="1955000" />
+      <workItem from="1535990464657" duration="1954000" />
+      <workItem from="1536059225888" duration="1430000" />
+      <workItem from="1536062592976" duration="885000" />
+      <workItem from="1536353087156" duration="1744000" />
+      <workItem from="1536354901601" duration="2201000" />
+      <workItem from="1536357379253" duration="1488000" />
+      <workItem from="1536574172505" duration="7940000" />
+      <workItem from="1536664016719" duration="1095000" />
+      <workItem from="1537370040713" duration="14627000" />
+      <workItem from="1537442394521" duration="3257000" />
+      <workItem from="1537461941778" duration="10960000" />
+      <workItem from="1537622682264" duration="15521000" />
+      <workItem from="1537798336831" duration="11414000" />
+      <workItem from="1538482959841" duration="838000" />
+      <workItem from="1538837668095" duration="755000" />
+      <workItem from="1540654452957" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="panel improvement">
+      <created>1537442560877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537442560877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="panel improvement validation">
+      <created>1537444281581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537444281581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="grid page">
+      <created>1537733020515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537733020515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="441625000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811795" weight="0.17744254" />
+      <window_info id="Structure" order="1" sideWeight="0.5018821" side_tool="true" weight="0.18224613" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018821" side_tool="true" weight="0.18224613" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998747" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998747" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998747" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49831876" weight="0.3298791" />
+      <window_info anchor="bottom" x="18" y="336" width="1477" height="263" id="RNConsole" order="10" type="FLOATING" weight="0.32998747" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5016812" side_tool="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5003362" side_tool="true" weight="0.44792974" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="13" weight="0.32998747" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32998747" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3298791" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32952252" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="SHOW_DETAILS_IN_CHANGES" value="false" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Fooderz" />
+    </ignored-roots>
+    <MESSAGE value="panel improvement" />
+    <MESSAGE value="panel improvement validation" />
+    <MESSAGE value="grid page" />
+    <option name="LAST_COMMIT_MESSAGE" value="grid page" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/FooderzAdmin/Providers/modal.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Shared/Bottom.php" />
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/modalRegions.php" />
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/ProviderConfirm2.php" />
+    <entry file="file://$PROJECT_DIR$/DataBase/PDO/fetch/fetchCol.php" />
+    <entry file="file://$PROJECT_DIR$/DataBase/PDO/fetch/fetch.php" />
+    <entry file="file://$PROJECT_DIR$/validate.php" />
+    <entry file="file://$PROJECT_DIR$/DataBase/PDO/exec/insert.php" />
+    <entry file="file://$PROJECT_DIR$/jdf/jdf.php" />
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/modalInsert2.php" />
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/financial/financial.php" />
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/ProviderConfirm.php" />
+    <entry file="file://$PROJECT_DIR$/DataBase/PDO/DBconnect/DBconnect.php" />
+    <entry file="file://$PROJECT_DIR$/final/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/final/js/faq.js" />
+    <entry file="file://$PROJECT_DIR$/final/about.html" />
+    <entry file="file://$PROJECT_DIR$/final/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/final/css/other_styles.css" />
+    <entry file="file://$PROJECT_DIR$/final/validate.php" />
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Shared/Top.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/restaurant_register.html" />
+    <entry file="file://$PROJECT_DIR$/final/index.html" />
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/prvLogIn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/sess.php" />
+    <entry file="file://$PROJECT_DIR$/DataBase/PDO/prepared/Bind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Gift/Gift.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/PDO/prepared/BindArr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resturantInfo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logIn.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/restaurant_register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/js/alsdkf.php" />
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2522">
+          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/stamp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/vardump.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/modalInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/providerPanel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/log_in/log_in.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="595" selection-start-line="595" selection-end-line="595" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/js/contact-us.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/ProviderNotConfirm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="97" column="61" selection-start-line="97" selection-start-column="61" selection-end-line="97" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FooderzAdmin/Providers/modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/js/plugins.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="13" column="9012" selection-start-line="13" selection-start-column="9012" selection-end-line="13" selection-end-column="9012" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/js/provider_info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="78" selection-start-line="86" selection-start-column="78" selection-end-line="86" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/about.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="4961" column="13" selection-start-line="4961" selection-start-column="13" selection-end-line="4961" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/restaurant-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/provider_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16949">
+          <caret line="997" selection-start-line="997" selection-end-line="997" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/css/other_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22933">
+          <caret line="1349" column="13" selection-start-line="1349" selection-start-column="1" selection-end-line="1349" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fooderz.ir/provider/provider_info_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="79" lean-forward="true" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
